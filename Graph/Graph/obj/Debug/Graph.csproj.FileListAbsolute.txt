@@ -1,0 +1,8 @@
+D:\Graph\Graph\bin\Debug\Graph.exe.config
+D:\Graph\Graph\bin\Debug\Graph.exe
+D:\Graph\Graph\bin\Debug\Graph.pdb
+D:\Graph\Graph\obj\Debug\Graph.csproj.AssemblyReference.cache
+D:\Graph\Graph\obj\Debug\Graph.csproj.SuggestedBindingRedirects.cache
+D:\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\Graph\Graph\obj\Debug\Graph.exe
+D:\Graph\Graph\obj\Debug\Graph.pdb
